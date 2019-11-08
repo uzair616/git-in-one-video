@@ -10,3 +10,5 @@ git commit
 //This command is use to stage file in the staging area 
 git add -A
 //This command is use to add multiple files at a time to git
+git commit -m "Message"
+//This command is use staged the file or files
