@@ -26,3 +26,11 @@ git diff --staged
 //ye command staging area ko last stage sy compare krti hai 
 git commit -a -m "message"
 //ye command bagher add kiye file ko commit kr dati hai agr apny aik e file pe kam karna ho tu 
+ls
+//ye command apke files ko list krny k liye hoti hai ye linex ki command hai 
+touch filename.extention
+// Ye command new file add krny k liye use hoti hai 
+git rm --cached filename.extention
+// Ye command stage area sy remove krny k liye use hoti hai 
+git rm filename.extention
+// Ye command file ko permanentaly remove krny liye ise hoti hai 
