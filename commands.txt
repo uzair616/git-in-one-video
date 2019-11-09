@@ -20,3 +20,7 @@ git log
 //Ye command btati hai apny kya kya commit kiya hai 
 git log -p -1
 //Ye command git log k output ko filter krny k liye use hoti hai to filter specific data
+git diff
+//ye command working tree ko staging area sy compare krta hai 
+git diff --staged 
+//ye command staging area ko last stage sy compare krti hai 
