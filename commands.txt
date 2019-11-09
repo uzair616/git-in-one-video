@@ -24,3 +24,5 @@ git diff
 //ye command working tree ko staging area sy compare krta hai 
 git diff --staged 
 //ye command staging area ko last stage sy compare krti hai 
+git commit -a -m "message"
+//ye command bagher add kiye file ko commit kr dati hai agr apny aik e file pe kam karna ho tu 
