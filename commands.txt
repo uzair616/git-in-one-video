@@ -16,3 +16,7 @@ git checkout command.txt
 //This command is use to recover one file at a time 
 git checkout -f 
 //This command is use to recover multiple files at a time 
+git log
+//Ye command btati hai apny kya kya commit kiya hai 
+git log -p -1
+//Ye command git log k output ko filter krny k liye use hoti hai to filter specific data
