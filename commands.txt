@@ -12,3 +12,7 @@ git add -A
 //This command is use to add multiple files at a time to git
 git commit -m "Message"
 //This command is use staged the file or files
+git checkout command.txt
+//This command is use to recover one file at a time 
+git checkout -f 
+//This command is use to recover multiple files at a time 
