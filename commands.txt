@@ -34,3 +34,5 @@ git rm --cached filename.extention
 // Ye command stage area sy remove krny k liye use hoti hai 
 git rm filename.extention
 // Ye command file ko permanentaly remove krny liye ise hoti hai 
+git status -s
+//Es command ko short status daikhney k liye use krty hain 
