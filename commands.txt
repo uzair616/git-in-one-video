@@ -39,4 +39,7 @@ git status -s
 git branch Name
 //ye command nayi branch create karti hai 
 git merge branchName
-//ye command branches ko master mai add krny k liye use hoti hai 
+//ye command branches ko master mai add krny k liye use hoti hai
+git branch 
+// ye command btati hai apke pas kn knsi branch hai 
+ 
