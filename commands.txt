@@ -38,3 +38,5 @@ git status -s
 //Es command ko short status daikhney k liye use krty hain 
 git branch Name
 //ye command nayi branch create karti hai 
+git merge branchName
+//ye command branches ko master mai add krny k liye use hoti hai 
