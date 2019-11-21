@@ -43,3 +43,4 @@ git merge branchName
 git branch 
 // ye command btati hai apke pas kn knsi branch hai 
 git checkout -b branchName 
+//ye command directely brach add karti hai aur hamen os pw ly  jati hai 
