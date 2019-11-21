@@ -36,3 +36,5 @@ git rm filename.extention
 // Ye command file ko permanentaly remove krny liye ise hoti hai 
 git status -s
 //Es command ko short status daikhney k liye use krty hain 
+git branch Name
+//ye command nayi branch create karti hai 
