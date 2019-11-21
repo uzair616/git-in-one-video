@@ -42,4 +42,4 @@ git merge branchName
 //ye command branches ko master mai add krny k liye use hoti hai
 git branch 
 // ye command btati hai apke pas kn knsi branch hai 
- 
+git checkout -b branchName 
